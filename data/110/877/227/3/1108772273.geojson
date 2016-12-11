@@ -9,7 +9,7 @@
     "geom:bbox":"-122.97377,44.20938,-121.76532,44.93779",
     "geom:latitude":44.582098,
     "geom:longitude":-122.344265,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5852990542.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 17",
     "uscensus:sldlst":"017",
     "uscensus:statefp":"41",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688513
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487917,
     "wof:geomhash":"6803f973bb643e81037a291a02eeebb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688513
+        }
+    ],
     "wof:id":1108772273,
     "wof:lastmodified":1481487917,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688513,
     "wof:repo":"whosonfirst-data-constituency-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],

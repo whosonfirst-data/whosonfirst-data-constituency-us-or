@@ -9,7 +9,7 @@
     "geom:bbox":"-122.79113,45.5254,-122.51,45.656438",
     "geom:latitude":45.588735,
     "geom:longitude":-122.674541,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":109421054.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 22",
     "uscensus:sldust":"022",
     "uscensus:statefp":"41",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688513
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487951,
     "wof:geomhash":"ec5a896d40548446a553c91345af40c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688513
+        }
+    ],
     "wof:id":1108772419,
     "wof:lastmodified":1481487951,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688513,
     "wof:repo":"whosonfirst-data-constituency-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],

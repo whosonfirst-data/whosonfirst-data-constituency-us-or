@@ -9,7 +9,7 @@
     "geom:bbox":"-124.15955,45.373698,-123.04525,46.299099",
     "geom:latitude":45.811098,
     "geom:longitude":-123.645269,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4617274570.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 32",
     "uscensus:sldlst":"032",
     "uscensus:statefp":"41",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688513
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487921,
     "wof:geomhash":"727a12cf004ae5e7a73ad1f35576ff8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688513
+        }
+    ],
     "wof:id":1108772305,
     "wof:lastmodified":1481487921,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688513,
     "wof:repo":"whosonfirst-data-constituency-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],

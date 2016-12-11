@@ -9,7 +9,7 @@
     "geom:bbox":"-123.35134,44.03025,-123.04442,44.28373",
     "geom:latitude":44.166979,
     "geom:longitude":-123.196668,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":301611973.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 7",
     "uscensus:sldust":"007",
     "uscensus:statefp":"41",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688513
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487941,
     "wof:geomhash":"37e78148d9760d4d272a61fb7c71f7cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688513
+        }
+    ],
     "wof:id":1108772385,
     "wof:lastmodified":1481487941,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688513,
     "wof:repo":"whosonfirst-data-constituency-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
